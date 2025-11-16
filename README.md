@@ -1,4 +1,4 @@
-<a href="https://docs.world.org/idkit">
+  <a href="https://docs.world.org/idkit">
   <img src="https://raw.githubusercontent.com/worldcoin/world-id-docs/main/public/images/shared-readme/readme-header.png" alt="" />
 </a>
 
